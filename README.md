@@ -13,7 +13,7 @@ Detection for Hyperspectral Imagery," in IEEE Transactions on Geoscience
 and Remote Sensing, vol. 56, no. 7, pp. 3667-3680, July 2018, doi:
 10.1109/TGRS.2018.2805340.
 
-Copyright (C) 2020, Xinyu Wang (wangxinyu@whu.edu.cn)
+Copyright (C) 2021, Xinyu Wang (wangxinyu@whu.edu.cn)
                     Yanfei Zhong (zhongyanfei@whu.edu.cn)
                     Wuhan university
                     All rights reserve
