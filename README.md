@@ -1,6 +1,6 @@
 # SAED-TGRS
 
-This package contains the MATLAB codes for the algorithm presented in the paper:
+This package contains the MATLAB codes for the algorithm presented in the papers:
 
 X. Wang, Y. Zhong, C. Cui, L. Zhang and Y. Xu, "Autonomous Endmember
 Detection via an Abundance Anomaly Guided Saliency Prior for
